@@ -14,7 +14,7 @@ A simple React app that allows users to search for books using the **Open Librar
 - Open Library API
 
 ## 🌍 Live Demo
-Hosted on **Netlify** — [dem0](https://bookfinderpro.netlify.app)
+Hosted on **Netlify** — [demo](https://bookfinderpro.netlify.app)
 
 ## 🧑‍💻 Author
 Developed by **Nikitha BV**  
